@@ -10,4 +10,4 @@ Communication service providers produce large volumes of calling data records (C
 
 The approach here is to curate the data for an EDA analysis and summarise the main characteristics of the CDR data sets that are generated and derive actionable insights. The outcome can be used for various business use cases like customer profiling, targeted marketing, product design, network fault isolation and fraud detection.
 
-With the impeding risk of OTT VoIP cannibalization, the clear understanding of their customers behaviour is the vital for the business to maintain their steady revenue stream. 
+With the impending risk of OTT VoIP cannibalization, the clear understanding of their customers behaviour is the vital for the business to maintain their steady revenue stream. 
